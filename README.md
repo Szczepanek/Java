@@ -1,6 +1,7 @@
 Java
 ====
 Gra auta (ale jeszcze może sie zmienic).
+
 1. Menu i buttony z ocjami.
  - tworzenie grafiki
  - funkcje buttonów
