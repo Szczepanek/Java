@@ -1,29 +1,28 @@
 Java
 ====
-Gra auta (ale jeszcze może sie zmienic).
 
 1. Menu i buttony z ocjami.
- - tworzenie grafiki
- - funkcje buttonów
+ - menu główne// 
+ - funkcje buttonów//
  - tworzenie użytkowników
- - wybór poziomu trudności
+ - wybór poziomu trudności //
 
 2. Zapisuywanie wyników i użytkowników.
  - tworzenie pliku z wynikami osobistymi
- - zapisywanie wyników
+ - zapisywanie wyników //
  - dodawanie nowych
  - update dla poszczególnych map
 
 3. Ładowamnie map itp.
  - pasek ładowania mapy
  - ładowania strony
- - zapisywamie wyników
+ - zapisywamie wyników do pliku lokalnego
  - przygotowanie wyników
 
 4. Zapisywnie wyników do bazy danych, z mozliwością porównania z innymi urzytkownikami.
  - zaprojektoawnie bazy danych z relacjami 
- - dodawanie nowych rekordów
- - update z lepszymi wynikami
+ - dodawanie nowych rekordów do pliku z rekordami
+ - update z lepszymi wynikami//
  - import wyników na stroę internetową
 
 5. Komunikacja ze stroną internetową.
