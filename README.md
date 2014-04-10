@@ -4,7 +4,7 @@ Java
 1. Menu i buttony z ocjami.
  - menu główne// 03.04.2014
  - funkcje buttonów//03.04.2014
- - grafika ----------
+ - grafika //10.04.2014
  - wybór poziomu trudności //03.04.2014
 
 2. Zapisuywanie wyników i użytkowników.
@@ -14,7 +14,7 @@ Java
  - update dla poszczególnych map//03.04.2014
 
 3. Ładowamnie map itp.
- - silnik----------
+ - silnik      //10.04.2014////przedwczesny start
  - ładowania strony
  - zapisywamie wyników do pliku lokalnego
  - przygotowanie wyników
