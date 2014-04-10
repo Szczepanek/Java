@@ -2,19 +2,19 @@ Java
 ====
 
 1. Menu i buttony z ocjami.
- - menu główne// 
- - funkcje buttonów//
- - tworzenie użytkowników
- - wybór poziomu trudności //
+ - menu główne// 03.04.2014
+ - funkcje buttonów//03.04.2014
+ - grafika ----------
+ - wybór poziomu trudności //03.04.2014
 
 2. Zapisuywanie wyników i użytkowników.
- - tworzenie pliku z wynikami osobistymi
- - zapisywanie wyników //
+ - tworzenie pliku z wynikami osobistymi//03.04.2014
+ - zapisywanie wyników //03.04.2014
  - dodawanie nowych
- - update dla poszczególnych map
+ - update dla poszczególnych map//03.04.2014
 
 3. Ładowamnie map itp.
- - pasek ładowania mapy
+ - silnik----------
  - ładowania strony
  - zapisywamie wyników do pliku lokalnego
  - przygotowanie wyników
@@ -22,7 +22,7 @@ Java
 4. Zapisywnie wyników do bazy danych, z mozliwością porównania z innymi urzytkownikami.
  - zaprojektoawnie bazy danych z relacjami 
  - dodawanie nowych rekordów do pliku z rekordami
- - update z lepszymi wynikami//
+ - update z lepszymi wynikami
  - import wyników na stroę internetową
 
 5. Komunikacja ze stroną internetową.
