@@ -20,7 +20,7 @@ Java
  - przygotowanie wyników
 
 4. Zapisywnie wyników do bazy danych, z mozliwością porównania z innymi urzytkownikami.
- - zaprojektoawnie bazy danych z relacjami 
+ - zaprojektoawnie bazy danych z relacjami 22.05.2014
  - dodawanie nowych rekordów do pliku z rekordami
  - update z lepszymi wynikami
  - import wyników na stroę internetową
