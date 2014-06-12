@@ -10,29 +10,29 @@ Java
 2. Zapisuywanie wyników i użytkowników.
  - tworzenie pliku z wynikami osobistymi//03.04.2014
  - zapisywanie wyników //03.04.2014
- - dodawanie nowych
+ - dodawanie nowych 3.04.2014
  - update dla poszczególnych map//03.04.2014
 
 3. Ładowamnie map itp.
  - silnik      //10.04.2014////przedwczesny start
- - ładowania strony
- - zapisywamie wyników do pliku lokalnego
- - przygotowanie wyników
+ - ładowania strony 
+ - zapisywamie wyników do pliku lokalnego 10.04.2014
+ - przygotowanie wyników 10.04.2014
 
 4. Zapisywnie wyników do bazy danych, z mozliwością porównania z innymi urzytkownikami.
- - zaprojektoawnie bazy danych z relacjami 22.05.2014
- - dodawanie nowych rekordów do pliku z rekordami
- - update z lepszymi wynikami
- - import wyników na stroę internetową
+ - zaprojektoawnie bazy danych z relacjami 05.06.2014
+ - dodawanie nowych rekordów do pliku z rekordami  05.06.2014
+ - update z lepszymi wynikami  05.06.2014
+ - tworzenie nowego użytkownika 05.06.2014
 
-5. Komunikacja ze stroną internetową.
- - możliwość połączenia ze stroną
- - porównanie z innymi graczami
- - mozliwość założenia unikalnego konta
- - obsługa problemu z istniejącym uzytkownikiem
+5. Połączenie klient server
+ - storzenie klienta i serwer 05.06.2014
+ - 
+ - połączenie między nimi 05.06.2014
+ - zapisywanie błędów wysyłanych przez klienta serwerowi do pliku 12.06.2014
  
-6. Synchronizacja danych.
- - tworzenie rankingów
+6. cos exte
+ - unitesty 12.06.2014
  - porównanie wyników dla osobnych map
  - przydzielanie bonusów
  - powiadomienia o aktualizacjach, np. skórek
